@@ -1,2 +1,2 @@
-# https://parkhangseo.herokuapp.com/
+# https://haruhayashi.herokuapp.com/
 Test account: parkhangseo - korea
