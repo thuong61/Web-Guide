@@ -69,7 +69,7 @@
     "swagger-jsdoc": "^1.9.3",
     "ts-xlsx": "0.0.10",
     "xlsx-populate": "^1.10.0",
-    "xlsx": "^0.10.6",
+    "xlsx": "^0.17.0",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
